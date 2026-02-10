@@ -1,6 +1,6 @@
 # User manual
 
-[[toc]]
+[[tadb shell sh /storage/emulated/0/Android/data/moe.shizuku.privileged.api/start.shoc]]
 
 ## Start Shizuku
 
